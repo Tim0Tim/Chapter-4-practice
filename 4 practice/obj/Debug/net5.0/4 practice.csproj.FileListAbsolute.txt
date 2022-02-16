@@ -1,0 +1,5 @@
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.csproj.AssemblyReference.cache
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.AssemblyInfoInputs.cache
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.AssemblyInfo.cs
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.csproj.CoreCompileInputs.cache
