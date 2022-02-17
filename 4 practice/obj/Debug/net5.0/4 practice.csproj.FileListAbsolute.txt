@@ -3,3 +3,14 @@ C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practi
 C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.AssemblyInfoInputs.cache
 C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.AssemblyInfo.cs
 C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.csproj.CoreCompileInputs.cache
+C:\Users\4400112995\source\repos\4 practice\4 practice\bin\Debug\net5.0\4 practice.exe
+C:\Users\4400112995\source\repos\4 practice\4 practice\bin\Debug\net5.0\4 practice.deps.json
+C:\Users\4400112995\source\repos\4 practice\4 practice\bin\Debug\net5.0\4 practice.runtimeconfig.json
+C:\Users\4400112995\source\repos\4 practice\4 practice\bin\Debug\net5.0\4 practice.runtimeconfig.dev.json
+C:\Users\4400112995\source\repos\4 practice\4 practice\bin\Debug\net5.0\4 practice.dll
+C:\Users\4400112995\source\repos\4 practice\4 practice\bin\Debug\net5.0\ref\4 practice.dll
+C:\Users\4400112995\source\repos\4 practice\4 practice\bin\Debug\net5.0\4 practice.pdb
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.dll
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\ref\4 practice.dll
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.pdb
+C:\Users\4400112995\source\repos\4 practice\4 practice\obj\Debug\net5.0\4 practice.genruntimeconfig.cache
