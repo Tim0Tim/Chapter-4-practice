@@ -2,7 +2,6 @@
 {
     class Account
     {
-        private string name;
 
         public string Name { get; set;}
         private decimal balance;
