@@ -4,6 +4,22 @@
     {
         private string name;
 
+        public string Name { get; set;}
+
+        public Account(string accountName)
+        {
+            Name = accountName;
+        }
+
+
+
+
+
+
+
+
+
+        /*
         public void SetName(string accountName)
         {
             name = accountName;
@@ -13,5 +29,6 @@
         {
             return name;
         }
+        */
     }
 }

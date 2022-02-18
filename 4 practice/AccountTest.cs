@@ -6,15 +6,11 @@ namespace _4_practice
     {
         static void Main()
         {
-            Account myAccount = new Account();
+            Account account1 = new Account("Jane Green");
+            Account account2 = new Account("John Blue");
 
-            Console.WriteLine($"Initial name is: {myAccount.GetName()}");
-
-            Console.Write("Enter the name: ");
-            string theName = Console.ReadLine();
-            myAccount.SetName(theName);
-
-            Console.WriteLine($"myAccount's name is: {myAccount.GetName()}");
+            Console.WriteLine($"account 1 name is: {account1.Name}");
+            Console.WriteLine($"account 2 name is: {account2.Name}");
         }
     }
 }
