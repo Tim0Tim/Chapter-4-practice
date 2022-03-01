@@ -3,8 +3,9 @@
     class Account
     {
 
-        public string Name { get; set;}
+        public string Name { get; set; }
         private decimal balance;
+      
 
         public Account(string accountName, decimal initialBalance)
         {
